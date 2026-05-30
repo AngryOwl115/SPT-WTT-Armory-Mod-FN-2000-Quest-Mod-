@@ -1,0 +1,112 @@
+[
+    {
+        "questId": "6833b8bc6f8ce71072c4e703",
+        "locationID": "woods",
+        "bundleName": "bodies",
+        "prefabName": "wildman_1",
+        "position": {
+            "x": 91.6219,
+            "y": 16.7,
+            "z": -845.9562
+        },
+        "rotation": {
+            "x": 270.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "requiredQuestStatuses": [
+            "Started"
+        ],
+        "excludedQuestStatuses": [
+            "Success"
+        ]
+    },
+    {
+        "questId": "6833b8bc6f8ce71072c4e703",
+        "locationID": "woods",
+        "bundleName": "bodies",
+        "prefabName": "wildman_3",
+        "position": {
+            "x": -173.9345,
+            "y": 12.48,
+            "z": -691
+        },
+        "rotation": {
+            "x": 270.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "requiredQuestStatuses": [
+            "Started"
+        ],
+        "excludedQuestStatuses": [
+            "Success"
+        ]
+    },
+    {
+        "questId": "6833b8bc6f8ce71072c4e703",
+        "locationID": "woods",
+        "bundleName": "bodies",
+        "prefabName": "wildman_1",
+        "position": {
+            "x": 81.113,
+            "y": 22.1854,
+            "z": -412.45330
+        },
+        "rotation": {
+            "x": 270.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "requiredQuestStatuses": [
+            "Started"
+        ],
+        "excludedQuestStatuses": [
+            "Success"
+        ]
+    },
+    {
+  "questId": "694f2000d149fc1d52000001",
+  "locationID": "labyrinth",
+  "bundleName": "WeaponF2000",
+  "prefabName": "weapon_f2000_container",
+  "position": {
+    "x": -5.71,
+    "y": 0.06,
+    "z": 16.12
+  },
+  "rotation": {
+    "x": 0.0,
+    "y": 180.0,
+    "z": 0.0
+  },
+  "requiredQuestStatuses": [
+    "Started"
+  ],
+  "excludedQuestStatuses": [
+    "Success"
+  ]
+},
+{
+        "questId": "694f2000d149fc1d52000001",
+        "locationID": "labyrinth",
+        "bundleName": "Items_Quests",
+        "prefabName": "quest_canus_lupis_note",
+        "position": {
+            "x": -5.59,
+            "y": 0.6,
+            "z": 16.12
+        },
+        "rotation": {
+            "x": 270.0,
+            "y": 20.0,
+            "z": 90.0
+        },
+        "requiredQuestStatuses": [
+            "Started"
+        ],
+        "excludedQuestStatuses": [
+            "Success"
+        ]
+    }
+]
